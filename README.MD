@@ -1,4 +1,4 @@
-[![pagepro_logo](https://raw.githubusercontent.com/Pagepro/frontend-recruitment-task-landing-page/master/logo.svg?sanitize=true)](https://pagepro.co/)
+[![pagepro_logo](https://navyuginfo.com/wp-content/uploads/2019/10/Navyug-Logo.png)](https://navyuginfo.com/)
 
 # React Developer Recruitment Task 
 
