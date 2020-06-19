@@ -70,3 +70,5 @@ Your job is to code an app with posts of users with ability to manage posts and 
 7. Working in accordance with good practices in general.
 8. How you communicate with API.
 9. Handling unexpected errors or potential exceptions.
+
+## upload your code on Github, Gitlab or Bitbucket and provide us the link.
