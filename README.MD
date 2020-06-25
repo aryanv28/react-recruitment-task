@@ -10,7 +10,7 @@ Your job is to code an app with posts of users with ability to manage posts and 
 * Starter: [Create react app starter](https://github.com/facebook/create-react-app)
 * State Managment: [Redux](https://github.com/reduxjs/react-redux)
 * Routing: [React-router](https://github.com/ReactTraining/react-router)
-* Middleware: [redux-thunk](https://github.com/reduxjs/redux-thunk)
+* Middleware: [redux-thunk] or [redux-saga] (choose as per your knowledge)
 
 ## Screens:
 * `Homepage` 
@@ -58,7 +58,6 @@ Your job is to code an app with posts of users with ability to manage posts and 
 2. Clean code (linters, prettier)
 3. UI kit for styles (or styled-components)
 4. Tests
-5. App deployed to [Netlify](https://www.netlify.com/)
 
 ## What will we be paying attention to:
 1. How you split code for components
